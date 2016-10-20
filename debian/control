@@ -1,0 +1,11 @@
+Source: maui-fontconfig
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: maui-fontconfig
+Architecture: all
+Description: Pregenerated fontconfig cache.
+  This package contains pregenrated fontconfig cache to fix skype loading times.
